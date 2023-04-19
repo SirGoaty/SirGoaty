@@ -1,7 +1,6 @@
-- Howdy, I'm @SirGoaty
-- I’m interested in Videogames, Tabletop Roleplaying Games and Software Development
-- I used to be a maths teacher and was studying towards a BSc in Operations Research with minors in Abstract Maths and Applied Maths
-- I’m currently learning React and Redux
+- Hi, I'm @SirGoaty
+- I’m interested in Videogames, Tabletop Roleplaying Games, Ultimate Frisbee, and Software Development
+- I’m currently learning a variety of Software development langauges, but have a history with React and Java
 - You can reach me by email: markdoyle9@gmail.com
 
 <!---
