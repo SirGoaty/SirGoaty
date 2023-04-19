@@ -1,8 +1,30 @@
-- Hi, I'm @SirGoaty
-- I’m interested in Videogames, Tabletop Roleplaying Games, Ultimate Frisbee, and Software Development
-- I’m currently learning a variety of software development langauges, but have a history with React and Java
+# Hi there, I'm @SirGoaty 👋
 
-<!---
-SirGoaty/SirGoaty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a software developer with a passion for Videogames, Tabletop Roleplaying Games, and Ultimate Frisbee. I enjoy tackling complex problems and building elegant solutions.
+
+## 💻 Skills
+
+I have experience working with a variety of programming languages, including:
+
+- React
+- Java
+- Python
+- Node.js
+
+I'm always eager to learn new technologies and expand my skillset.
+
+## 🌱 Currently Learning
+
+Currently, I'm exploring new technologies and learning more about:
+
+-APIs
+-MERN stack
+-game design and development
+
+## 🔎 Looking for Work
+
+I'm currently seeking new opportunities to grow as a developer and contribute to innovative projects. Feel free to reach out to me!
+
+## 📫 Contact
+
+- Email: markdoyle9@gmail.com
