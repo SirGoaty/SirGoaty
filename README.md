@@ -17,9 +17,9 @@ I'm always eager to learn new technologies and expand my skillset.
 
 Currently, I'm exploring new technologies and learning more about:
 
--APIs
--MERN stack
--game design and development
+- APIs
+- MERN stack
+- game design and development
 
 ## 🔎 Looking for Work
 
